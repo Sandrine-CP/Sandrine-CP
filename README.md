@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sandrine CAZENAVE</h1>
-<h3 align="center">I am a super heroe mom adding technical skills to a project manager career</h3>
+<h3 align="center">I am a super heroe mom adding technical skills to a project manager career but over all, having fun creating some web sites 🌟</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -8,13 +8,15 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Fullstack project**
+- 🔭 I’m currently working on a psychptherapist's website
+  
+- 📜 I obtained my Level 5 Professional Title as a Web and Mobile Web Developer
 
-- 🌱 I’m currently learning **web development at Wild Code School**
+- 🌱 I continue to learn by practicing: I worked on Next.js and Tailwind css for the psychotherapist's website
 
 - 👨‍💻 All of my projects are available at (comming soon)
 
-- 💬 Ask me about **React, javascript, SEO and Figma**
+- 💬 Ask me about **React, Next.js, SEO and Figma**
 
 - 📫 How to reach me **cazenave.sandrine@outlook.fr**
 
