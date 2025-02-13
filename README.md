@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at (comming soon)
 
-- 💬 Ask me about **React, Next.js, SEO and Figma**
+- 💬 Ask me about **React, Next.js, SEO and Figma and Agile methodology**
 
 - 📫 How to reach me **cazenave.sandrine@outlook.fr**
 
