@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sandrine CAZENAVE</h1>
-<h3 align="center">I am a super heroe mom switching career</h3>
+<h3 align="center">I am a super heroe mom adding technical skills to a project manager career</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
