@@ -14,7 +14,7 @@
 
 ### 🏆 Achievements
 - 🎓 Certified Level 5 Professional Title in Web and Mobile Web Development.
-- 🚀 Active on [Frontend Mentor](https://www.frontendmentor.io) and [CodinGame](https://www.codingame.com) to sharpen my front-end skills.
+- 🚀 Active on [Frontend Mentor](https://www.frontendmentor.io) and [CodeWars]((https://www.codewars.com/)) to sharpen my front-end skills.
 - 🛠️ Built projects with **React**, **Next.js**, **Node.js**, **Express**, and design tools like **Figma**.
 
 ---
