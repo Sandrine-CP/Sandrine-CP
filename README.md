@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Project Manager | Passionate about Building User-Centric Web Applications</h3>
 
 <p align="center">
-🌟 Transitioning from project management to web development, I enjoy crafting performant, accessible websites with a focus on user experience.
+🌟 Combining project management with web development, I like to create efficient and accessible websites with an emphasis on user experience.
 </p>
 
 ---
