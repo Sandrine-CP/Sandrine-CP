@@ -1,95 +1,71 @@
-
 <h1 align="center">Hi 👋, I'm Sandrine CAZENAVE</h1>
-<h3 align="center">I am a superhero mom transitioning from project management to web development, enjoying the journey of creating websites with a passion for learning and growth 🌟</h3>
+<h3 align="center">Web Developer | Project Manager | Passionate about Building User-Centric Web Applications</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sandrine-cp" alt="sandrine-cp" />
-  </a> 
+<p align="center">
+🌟 Transitioning from project management to web development, I enjoy crafting performant, accessible websites with a focus on user experience.
 </p>
 
-- 🔭 Currently working on a psychotherapist’s website using Next.js and Tailwind CSS, focusing on performance, accessibility, and SEO.
+---
 
-- 🎯 I’m looking for opportunities in front-end or full-stack web development, with a focus on creating performant and user-friendly applications.
-- 
-- 📜 I obtained my Level 5 Professional Title as a Web and Mobile Web Developer.
+### 🔭 Current Project
+- Building a psychotherapist’s website using **Next.js** and **Tailwind CSS**, with a strong focus on **SEO**, **accessibility**, and **performance**.
 
-- 🌱 I continue to learn by practicing: I worked on Next.js and Tailwind css for the psychotherapist's website.
+---
 
-- 👨‍💻 All of my projects are available at => Portfolio in progress, stay tuned!
+### 🏆 Achievements
+- 🎓 Certified Level 5 Professional Title in Web and Mobile Web Development.
+- 🚀 Active on [Frontend Mentor](https://www.frontendmentor.io) and [CodinGame](https://www.codingame.com) to sharpen my front-end skills.
+- 🛠️ Built projects with **React**, **Next.js**, **Node.js**, **Express**, and design tools like **Figma**.
 
-- 💬 Ask me about **React, Next.js, SEO and Figma and Agile methodology**
+---
 
-- 📫 How to reach me **cazenave.sandrine@outlook.fr**
+### 🌱 Currently Learning
+- Diving deeper into **Next.js**, **Tailwind CSS**, and improving web performance.
+- Exploring **PHP** and **Java** soon to expand my back-end skills.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 💬 Ask me about
+- **React, Next.js, Tailwind CSS, SEO, Figma, and Agile methodologies.**
+
+---
+
+### 📫 How to reach me
+- 📧 cazenave.sandrine@outlook.fr
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sandrine-cazenave-peyrasson)
+
+---
+
+### 🚀 My Projects
+- [Sandra Bondon - Psychopraticienne](https://github.com/Sandrine-CP/sandra-bondon) – Next.js site with Tailwind CSS, SEO optimization, and dynamic content integration.
+- [Chemin Montessori](https://github.com/Sandrine-CP/chemin-montessori) – Coaching e-shop built with React, Node.js, and Express.
+- *More projects coming soon!*
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandrine-cazenave-peyrasson" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandrine.cazenave.peyrasson" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>       </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandrine-cp&theme=default" alt="sandrine-cp" />
 </p>
 
-<h3 align="left">Support:</h3>
+---
+
+### ☕ Support Me
 <p>
   <a href="https://www.buymeacoffee.com/sandrine-CP"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandrine-CP" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandrine-CP" />
   </a>
-</p><br><br>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrine-cp&show_icons=true&locale=en&layout=compact" alt="sandrine-cp" />
 </p>
-
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandrine-cp&show_icons=true&locale=en" alt="sandrine-cp" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandrine-cp&" alt="sandrine-cp" />
-</p>
-
-
-<!--
-**Sandrine-CP/Sandrine-CP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
