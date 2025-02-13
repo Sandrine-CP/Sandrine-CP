@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **web development at Wild Code School**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 All of my projects are available at (comming soon)
 
-- 💬 Ask me about **React, javascript and Figma**
+- 💬 Ask me about **React, javascript, SEO and Figma**
 
 - 📫 How to reach me **cazenave.sandrine@outlook.fr**
 
