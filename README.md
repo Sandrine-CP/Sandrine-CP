@@ -38,7 +38,7 @@
 
 ### 🚀 My Projects
 - [Sandra Bondon - Psychopraticienne](https://github.com/Sandrine-CP/sandra-bondon) – Next.js site with Tailwind CSS, SEO optimization, and dynamic content integration.
-- [Chemin Montessori](https://github.com/Sandrine-CP/chemin-montessori) – Coaching e-shop built with React, Node.js, and Express.
+- [Chemin Montessori](https://github.com/Sandrine-CP/Chemin_Montessori) – Coaching e-shop built with React, Node.js, and Express.
 - *More projects coming soon!*
 
 ---
